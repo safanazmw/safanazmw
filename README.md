@@ -1,24 +1,23 @@
 
 <div align="center">
 
-<!-- HERO BANNER
-     Upload your custom banner to assets/safa-mw-banner.png
-     This image contains the interlocked MW watermark behind SAFA.
--->
-
-<img src="./assets/safa-mw-banner.png" width="100%" alt="SAFA — futuristic MW engineering identity"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2500&pause=800&color=67E8F9&center=true&vCenter=true&width=650&lines=Software+%2F+Data+%2F+Infrastructure;Building+ideas+into+working+systems;Learning+Cloud+%26+DevOps;Think+in+systems.+Build+with+precision." alt="Animated engineering tagline"/>
-
-<br/>
-
+<!-- OFF-WHITE / CAT WARRIOR AESTHETIC -->
 <a href="https://github.com/safanazmw">
-<img src="https://img.shields.io/badge/GITHUB-SAFANAZMW-101827?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:FAF7F0,35:F0E7FF,70:E1F4F1,100:FFE5D9&text=SAFA&fontSize=78&fontColor=29263D&fontAlignY=42&desc=CODE%20WITH%20COURAGE%20%E2%80%A2%20BUILD%20WITH%20PURPOSE&descSize=13&descAlignY=63&animation=twinkling" alt="Safa's pastel warrior developer header"/>
 </a>
-<img src="https://img.shields.io/badge/ENGINEERING-MINDSET-172554?style=for-the-badge&logoColor=FFFFFF" alt="Engineering mindset"/>
-<img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-164E63?style=for-the-badge" alt="Learning and building"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2400&pause=700&color=7964B5&center=true&vCenter=true&width=600&lines=Curious+mind.+Warrior+spirit.;Data+is+my+playground.;Learning+Cloud+%26+DevOps.;Debugging+like+a+cat+with+nine+lives." alt="Animated developer tagline"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/✦-CAT%20WARRIOR-EEE7FA?style=for-the-badge&labelColor=FAF7F0&color=E5D9F7" alt="Cat warrior identity"/>
+<img src="https://img.shields.io/badge/✧-CODE%20%26%20CREATE-E2F4EF?style=for-the-badge&labelColor=FAF7F0&color=D5ECE4" alt="Code and create"/>
+
+<br/><br/>
+
+[GitHub](https://github.com/safanazmw) ·
+[LinkedIn](YOUR_LINKEDIN_PROFILE_URL) ·
+[Email](mailto:YOUR_EMAIL@example.com)
 
 </div>
 
@@ -26,311 +25,193 @@
 
 <div align="center">
 
-## 01 — THE PERSON BEHIND THE CODE
+## ୨୧ — HELLO, I'M SAFA
 
-**Safa** &nbsp; / &nbsp; Student · Aspiring Developer
-
-*Curiosity drives the design. Logic drives the implementation.*
+*Part curious cat. Part fearless warrior. Always learning.*
 
 </div>
 
-I'm a computer science student exploring the intersection of **software development, data intelligence, and cloud infrastructure**.
+I'm a computer science student exploring software development, data analytics, and cloud technologies.
 
-I enjoy working with data, developing practical applications, understanding how systems operate, and exploring the technologies that connect software to infrastructure.
+I like solving problems, experimenting with code, and turning ideas into practical projects. My learning journey is about building strong fundamentals and becoming confident across the entire technology stack.
 
-My goal is to develop strong engineering fundamentals and turn what I learn into useful, well-documented projects.
+```text
+PERSONALITY  Curious mind, independent spirit
+CURRENT MODE Learning · Building · Improving
+MISSION      Turn ideas into working systems
+AESTHETIC    Soft colors, sharp logic, cat-warrior energy
+```
+
+---
+
+## ✦ MY TECHNICAL TOOLKIT
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,html,css,mysql,r&theme=light" alt="Python Java HTML CSS SQL and R"/>
+<img src="https://img.shields.io/badge/C-EDE9FE?style=for-the-badge&logo=c&logoColor=6D5BA6" alt="C language"/>
+
+### Development Tools
+
+<img src="https://skillicons.dev/icons?i=react,git,github,linux&theme=light" alt="React Git GitHub Linux"/>
+
+### Data & Analytics
+
+<img src="https://img.shields.io/badge/Excel-E2F4EA?style=for-the-badge&logo=microsoftexcel&logoColor=217346" alt="Excel"/>
+<img src="https://img.shields.io/badge/Power%20BI-FFF1C9?style=for-the-badge&logo=powerbi&logoColor=8A6500" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Tableau-DCEBFA?style=for-the-badge&logo=tableau&logoColor=315B87" alt="Tableau"/>
+
+</div>
+
+### Current interests
+
+`Data Science` · `Data Engineering` · `Cloud` · `DevOps`
+
+`Linux` · `Networking` · `CI/CD` · `AWS` · `Kubernetes`
+
+---
+
+## ୨୧ — MY PROJECT UNIVERSE
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### CURRENT FOCUS
-
-- Python and SQL
-- Data analysis and visualization
-- Application development
-- Git and Linux fundamentals
-
-</td>
-<td width="50%" valign="top">
-
-### EXPLORING NEXT
-
-- Data engineering
-- AWS and cloud architecture
-- DevOps and CI/CD
-- Networking and containers
-
-</td>
-</tr>
-</table>
-
----
-
-## 02 — TECHNICAL STACK
-
-<div align="center">
-
-### LANGUAGES
-
-<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="44" alt="Python"/></a>
-<a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" height="44" alt="Java"/></a>
-<a href="https://www.w3.org/html/"><img src="https://skillicons.dev/icons?i=html" height="44" alt="HTML"/></a>
-<a href="https://www.w3.org/Style/CSS/"><img src="https://skillicons.dev/icons?i=css" height="44" alt="CSS"/></a>
-<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="44" alt="SQL and MySQL"/></a>
-<a href="https://www.r-project.org/"><img src="https://skillicons.dev/icons?i=r" height="44" alt="R"/></a>
-<a href="https://en.cppreference.com/w/c"><img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=93C5FD" alt="C"/></a>
-
-### DEVELOPMENT & TOOLS
-
-<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" height="44" alt="React"/></a>
-<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="44" alt="Git"/></a>
-<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="44" alt="GitHub"/></a>
-<a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" height="44" alt="Linux"/></a>
-
-### DATA & ANALYTICS
-
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://img.shields.io/badge/EXCEL-12372A?style=for-the-badge&logo=microsoftexcel&logoColor=86EFAC" alt="Excel"/></a>
-<a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/POWER%20BI-292315?style=for-the-badge&logo=powerbi&logoColor=FACC15" alt="Power BI"/></a>
-<a href="https://www.tableau.com/"><img src="https://img.shields.io/badge/TABLEAU-102A43?style=for-the-badge&logo=tableau&logoColor=7DD3FC" alt="Tableau"/></a>
-
-</div>
-
-### AREAS OF INTEREST
-
-`DATA SCIENCE` · `DATA ENGINEERING` · `CLOUD ENGINEERING`
-
-`DEVOPS` · `LINUX` · `NETWORKING` · `CI/CD`
-
-`AWS` · `KUBERNETES` · `AUTOMATION`
-
----
-
-## 03 — FEATURED PROJECTS
-
-<div align="center">
-
-*Five projects. Different problems. One continuous learning journey.*
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 01 / Global Mortality Analysis
+### 🌙 Global Mortality Analysis
 
 **From Past to Future**
 
-Analyzing historical global causes of death and exploring forecasting methods to understand potential mortality trends.
+Exploring historical causes of death, visualizing mortality patterns, and experimenting with forecasting.
 
-**Focus areas**
+`Python` `Pandas` `Visualization`
 
-- Data cleaning and exploration
-- Visualization of historical trends
-- Time-series forecasting
-
-`PYTHON` `PANDAS` `VISUALIZATION`
-
-[↗ View repository](https://github.com/safanazmw/REPLACE_GLOBAL_MORTALITY_REPO)
+[Explore repository ↗](https://github.com/safanazmw/REPLACE_GLOBAL_MORTALITY_REPO)
 
 </td>
 <td width="50%" valign="top">
 
-### 02 / HR Attrition Analysis
+### 🌷 HR Attrition Analysis
 
-Exploring workforce data to understand employee attrition patterns and identify insights that can support better decisions.
+Analyzing workforce data to discover attrition patterns and communicate business insights.
 
-**Focus areas**
+`Data Analysis` `Visualization`
 
-- Exploratory data analysis
-- Workforce metrics
-- Charts and business insights
-
-`DATA ANALYSIS` `EXCEL` `POWER BI`
-
-[↗ View repository](https://github.com/safanazmw/REPLACE_HR_ATTRITION_REPO)
+[Explore repository ↗](https://github.com/safanazmw/REPLACE_HR_ATTRITION_REPO)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 03 / Anumati
+### ⚔️ Anumati
 
 **Smart Approval System for College**
 
-A college-oriented project focused on organizing approval requests and making approval workflows easier to manage.
+A college-oriented project concept focused on organizing approval requests and workflows.
 
-**Focus areas**
+`Application Development` `Workflow`
 
-- Approval workflow design
-- Application development
-- Process organization
-
-`SOFTWARE DEVELOPMENT` `WORKFLOWS`
-
-[↗ View repository](https://github.com/safanazmw/REPLACE_ANUMATI_REPO)
+[Explore repository ↗](https://github.com/safanazmw/REPLACE_ANUMATI_REPO)
 
 </td>
 <td width="50%" valign="top">
 
-### 04 / Coffee Shop Sales Analysis
+### ☕ Coffee Shop Sales Analysis
 
-Analyzing sales data to explore product performance, revenue patterns, and trends that can support business decisions.
+Exploring sales patterns, product performance, and business trends through data analysis.
 
-**Focus areas**
+`Analytics` `Reporting`
 
-- Sales analysis
-- Product performance
-- Business reporting
-
-`DATA ANALYSIS` `VISUALIZATION` `REPORTING`
-
-[↗ View repository](https://github.com/safanazmw/REPLACE_COFFEE_SALES_REPO)
+[Explore repository ↗](https://github.com/safanazmw/REPLACE_COFFEE_SALES_REPO)
 
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
 
-### 05 / Social Media Sentiment Analysis
+### 🐈 Social Media Sentiment Analysis
 
-A Python-based sentiment analysis project using a machine-learning pipeline to classify social media text into sentiment categories.
+A machine-learning project that analyzes text and classifies sentiment through a Python and Flask application.
 
-**Focus areas**
+`Python` `Flask` `NLP` `Machine Learning`
 
-- Text preprocessing
-- Sentiment classification
-- Flask application
-
-`PYTHON` `FLASK` `NLP` `MACHINE LEARNING`
-
-[↗ View repository](https://github.com/safanazmw/social-media-sentiment-analysis)
+[Explore repository ↗](https://github.com/safanazmw/social-media-sentiment-analysis)
 
 </td>
 </tr>
 </table>
 
-> Repository links marked `REPLACE_...` are placeholders. Replace them with the actual repository names before publishing. The descriptions should reflect each project's implemented functionality.
+<sub>Replace the four placeholder repository links with your actual GitHub repository names before publishing.</sub>
 
 ---
 
-## 04 — THE ENGINEERING ROADMAP
+## ✧ THE WARRIOR'S LEARNING PATH
 
 <div align="center">
 
-*From fundamentals to connected, deployable systems.*
+| Path | Skills I'm exploring |
+|:---|:---|
+| **Data** | Python, SQL, data pipelines, analytics |
+| **Cloud** | AWS, cloud services, networking |
+| **DevOps** | Linux, Git, Docker, CI/CD, Kubernetes |
+| **Software** | Algorithms, APIs, testing, clean code |
 
 </div>
 
-<table>
-<tr>
-<th align="left">TRACK</th>
-<th align="left">TECHNOLOGIES TO EXPLORE</th>
-<th align="left">BUILDING GOAL</th>
-</tr>
-<tr>
-<td>01 / Data</td>
-<td>Python, SQL, data modeling, ETL, data quality</td>
-<td>Reliable data pipelines</td>
-</tr>
-<tr>
-<td>02 / Cloud</td>
-<td>AWS, IAM, storage, compute, monitoring</td>
-<td>Understand cloud deployments</td>
-</tr>
-<tr>
-<td>03 / DevOps</td>
-<td>Linux, Bash, Docker, CI/CD, Kubernetes</td>
-<td>Automate development workflows</td>
-</tr>
-<tr>
-<td>04 / Networking</td>
-<td>TCP/IP, DNS, HTTP, routing, troubleshooting</td>
-<td>Understand connected systems</td>
-</tr>
-<tr>
-<td>05 / Software</td>
-<td>Algorithms, data structures, APIs, testing</td>
-<td>Build maintainable applications</td>
-</tr>
-</table>
-
-### THE WORKING PRINCIPLE
-
-<pre>
-UNDERSTAND  →  DESIGN  →  IMPLEMENT  →  TEST  →  IMPROVE
-</pre>
-
-Learn the fundamentals. Build something practical. Document what works, what doesn't, and what comes next.
+*Small steps. Strong foundations. Better projects.*
 
 ---
 
-## 05 — GITHUB ANALYTICS
+## ♡ GITHUB ACTIVITY
 
 <div align="center">
 
 <a href="https://github.com/safanazmw">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=safanazmw&show_icons=true&hide_border=true&bg_color=0B1020&title_color=67E8F9&text_color=C7D2FE&icon_color=A78BFA&include_all_commits=true" alt="GitHub profile statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=safanazmw&show_icons=true&hide_border=true&bg_color=FAF7F0&title_color=7964B5&text_color=514B63&icon_color=70AFA2&include_all_commits=true" alt="GitHub statistics"/>
 </a>
 
 <a href="https://github.com/safanazmw">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safanazmw&layout=compact&hide_border=true&bg_color=0B1020&title_color=67E8F9&text_color=C7D2FE" alt="Most used languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safanazmw&layout=compact&hide_border=true&bg_color=FAF7F0&title_color=7964B5&text_color=514B63" alt="Most used languages"/>
 </a>
-
-<br/><br/>
-
-<a href="https://github.com/safanazmw">
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=safanazmw&hide_border=true&background=0B1020&stroke=26324A&ring=A78BFA&fire=F0ABFC&currStreakLabel=67E8F9&sideLabels=C7D2FE&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub contribution streak"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/safanazmw">
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=safanazmw&bg_color=0B1020&color=C7D2FE&line=818CF8&point=67E8F9&area=true&hide_border=true" alt="GitHub contribution activity"/>
-</a>
-
-</div>
-
-<sub>These optional third-party widgets can be unavailable or rate-limited. Statistics depend on GitHub data and provider support; language percentages are not a measure of proficiency.</sub>
-
----
-
-## 06 — CONNECT WITH ME
-
-<div align="center">
-
-**Good ideas become better when they are built together.**
-
-<a href="https://github.com/safanazmw">
-<img src="https://img.shields.io/badge/GITHUB-18181B?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
-</a>
-<a href="www.linkedin.com/in/safanaz-mw">
-<img src="https://img.shields.io/badge/LINKEDIN-0A2540?style=for-the-badge&logo=linkedin&logoColor=7DD3FC" alt="LinkedIn"/>
-</a>
-<a href="mailto:safamw19@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-3B1D5A?style=for-the-badge&logo=gmail&logoColor=F0ABFC" alt="Email"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=safanazmw&style=flat-square&color=4F46E5&label=PROFILE+VIEWS" alt="Profile views"/>
-
-</div>
-
----
-
-<div align="center">
-
-### SAFA / MW
-
-**THINK IN SYSTEMS. BUILD WITH PRECISION.**
-
-<sub>Logic in every decision. Purpose in every implementation.</sub>
 
 <br/>
 
-<sub>BLACK / TITANIUM / ELECTRIC BLUE / VIOLET / CYAN</sub>
+<a href="https://github.com/safanazmw">
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=safanazmw&bg_color=FAF7F0&color=514B63&line=9B87CE&point=70AFA2&area=true&hide_border=true" alt="Contribution activity graph"/>
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=safanazmw&style=flat-square&color=DCD1F3&label=VISITORS" alt="Profile visitors"/>
+
+</div>
+
+<sub>External statistics can be unavailable or rate-limited. They reflect available GitHub data, not your complete skill level.</sub>
+
+---
+
+## ☁️ FIND ME HERE
+
+<div align="center">
+
+<a href="https://github.com/safanazmw">
+<img src="https://img.shields.io/badge/GitHub-FAF7F0?style=for-the-badge&logo=github&logoColor=514B63" alt="GitHub"/>
+</a>
+<a href="YOUR_LINKEDIN_PROFILE_URL">
+<img src="https://img.shields.io/badge/LinkedIn-E2F4F1?style=for-the-badge&logo=linkedin&logoColor=287A80" alt="LinkedIn"/>
+</a>
+<a href="mailto:YOUR_EMAIL@example.com">
+<img src="https://img.shields.io/badge/Email-F0E7FF?style=for-the-badge&logo=gmail&logoColor=7964B5" alt="Email"/>
+</a>
+
+<br/><br/>
+
+### `STAY CURIOUS. STAY COURAGEOUS.`
+
+*Soft paws. Sharp mind. Fearless code.*
+
+<sub>SAFA / MW · Built with curiosity and a little cat magic.</sub>
 
 </div>
